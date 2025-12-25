@@ -1,1 +1,0 @@
-console.log("Welcome to LEO STUDIO Game Hub!");
